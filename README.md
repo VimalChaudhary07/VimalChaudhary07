@@ -52,11 +52,11 @@
 ## 📊 GitHub Stats  
 
 <p align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical&hide_border=true" width="400"/>  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical&hide_border=true" width="400"/>  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=your-github-username&theme=radical" width="850"/>  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical&hide_border=true" width="400"/>  
-  <img src="https://github-profile-trophy.vercel.app/?username=your-github-username&theme=radical&no-frame=true&row=1&column=6" width="850"/>  
+  <img src="https://github-readme-stats.vercel.app/api?username=vimalchaudhary07&show_icons=true&theme=radical&hide_border=true" width="400"/>  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?vimalchaudhary07&theme=radical&hide_border=true" width="400"/>  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vimalchaudhary07&theme=radical" width="850"/>  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vimalchaudhary07&layout=compact&theme=radical&hide_border=true" width="400"/>  
+  <img src="https://github-profile-trophy.vercel.app/?username=vimalchaudhary07&theme=radical&no-frame=true&row=1&column=6" width="850"/>  
 </p>  
 
 ---
