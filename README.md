@@ -40,10 +40,6 @@
 🔹 **Weather Monitoring System** – IoT-based remote weather tracking using Arduino & ESP8266.  
 🔹 **AI-Built Event Management Portfolio** – A website built using AI to help manage an event management portfolio.  
 
-### 🔬 **Currently Experimenting With**  
-📽️ **AI-Powered PPT to Video Generator** – Converts PPTs into fully animated videos with AI-generated subtitles & voiceovers.  
-🎞️ **AI Subtitle Generator for Videos** – Automatically generates subtitles with font customization and subscription-based access.  
-
 ## 📊 GitHub Stats  
 
 <p align="center">  
