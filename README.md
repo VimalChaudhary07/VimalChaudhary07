@@ -44,11 +44,6 @@
 📽️ **AI-Powered PPT to Video Generator** – Converts PPTs into fully animated videos with AI-generated subtitles & voiceovers.  
 🎞️ **AI Subtitle Generator for Videos** – Automatically generates subtitles with font customization and subscription-based access.  
 
-### 🔮 **Future Projects**  
-📡 **Autonomous Calling & SMS Network** – Developing a private experimental network for secure calls and SMS without external service providers.  
-
----
-
 ## 📊 GitHub Stats  
 
 <p align="center">  
